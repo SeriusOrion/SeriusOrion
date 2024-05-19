@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Shreya
+- 🌱 I’m currently pursuing my BS in Data Science & Applications from IIT Madras.
 
 <!--
 **SeriusOrion/SeriusOrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
